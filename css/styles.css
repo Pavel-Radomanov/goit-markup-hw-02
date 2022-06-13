@@ -26,7 +26,7 @@
 .site-nav a:hover,
 .site-nav a:focus {
     color: var(--b-color);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .site-nav-right a {
@@ -37,7 +37,7 @@
 .site-nav-right a:hover,
 .site-nav-right a:focus {
     color: #2196F3;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 
@@ -65,7 +65,7 @@
 }
 
 .body-fonts {
-    font-family: 'Roboto', 'Raleway';
+    font-family: 'Roboto';
     font-weight: 400;
     color: var(--gr-color);
 }
@@ -74,8 +74,6 @@
     background-color: var(--f-color);
     ;
     color: #FFFFFF;
-    ;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
@@ -83,7 +81,7 @@
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase
-}
+    }
 
 .btn {
     background-color: var(--b-color);
@@ -101,7 +99,6 @@
 
 .benefits h3 {
     color: #212121;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -111,7 +108,6 @@
 }
 
 .benefits-main p {
-    font-family: 'Roboto';
     font-style: normal;
     font-size: 14px;
     line-height: 1.71;
@@ -120,7 +116,6 @@
 }
 
 .work2 {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -131,7 +126,6 @@
 }
 
 .work3 h3 {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -142,7 +136,6 @@
 }
 
 .position p {
-    font-family: 'Roboto';
     font-style: normal;
     font-size: 16px;
     line-height: 1.19;
